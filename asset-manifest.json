@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RestaurantMenuCard/static/css/main.ad4707ca.css",
+    "main.js": "/RestaurantMenuCard/static/js/main.b94bf374.js",
+    "static/js/453.1187fdb0.chunk.js": "/RestaurantMenuCard/static/js/453.1187fdb0.chunk.js",
+    "index.html": "/RestaurantMenuCard/index.html",
+    "main.ad4707ca.css.map": "/RestaurantMenuCard/static/css/main.ad4707ca.css.map",
+    "main.b94bf374.js.map": "/RestaurantMenuCard/static/js/main.b94bf374.js.map",
+    "453.1187fdb0.chunk.js.map": "/RestaurantMenuCard/static/js/453.1187fdb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4707ca.css",
+    "static/js/main.b94bf374.js"
+  ]
+}
